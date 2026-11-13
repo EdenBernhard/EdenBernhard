@@ -1,9 +1,8 @@
 <h1>Hi, I'm Eden 🐼</h1>
 
-**Computer Science student at DHBW Karlsruhe · Dual student at Siemens AG**
+<a href="https://github.com/EdenBernhard"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4493F8&vCenter=true&width=480&lines=Computer+Science+%40+DHBW+Karlsruhe;Dual+student+at+Siemens+AG;Full-stack+%C2%B7+Signal+processing+%C2%B7+AI+tooling" alt="Typing intro" /></a>
 
 I like building things end to end — from sensors and microcontrollers to web apps and the data in between.
-Right now I'm especially into **AI tooling**, **full-stack development** and **signal processing**.
 
 ---
 
@@ -13,12 +12,10 @@ Right now I'm especially into **AI tooling**, **full-stack development** and **s
 
 ### 🚀 Selected projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**LazyCook**](https://github.com/GalacticCodeGambit/LazyCook) | Enter the ingredients you have, get matching recipes — scaled to the number of people. Team project with CI and SonarCloud. | Next.js · TypeScript · FastAPI · Docker |
-| [**EMG Hand & Finger Tracking**](https://github.com/EdenBernhard/EMG-Hand-Finger-Tracking) | Recognising hand and finger gestures from EMG muscle signals. | Python · Signal processing |
-| [**EPUB Translation App**](https://github.com/EdenBernhard/v0-epub-translation-app) | Upload e-books (EPUB/MOBI) and read them translated. | Next.js · React · Supabase |
-| [**Autonomous Hydroponics**](https://github.com/EdenBernhard/Autonomous-hydroponic-system-prototype) | Monitors pH, oxygen and conductivity and doses nutrients automatically, with a live dashboard. | C++ · ESP32 · Raspberry Pi · MQTT |
+<a href="https://github.com/GalacticCodeGambit/LazyCook"><img src="cards/lazycook.svg" width="49%" alt="LazyCook" /></a>
+<a href="https://github.com/EdenBernhard/EMG-Hand-Finger-Tracking"><img src="cards/emg.svg" width="49%" alt="EMG Hand & Finger Tracking" /></a>
+<a href="https://github.com/EdenBernhard/v0-epub-translation-app"><img src="cards/epub.svg" width="49%" alt="EPUB Translation App" /></a>
+<a href="https://github.com/EdenBernhard/Autonomous-hydroponic-system-prototype"><img src="cards/hydro.svg" width="49%" alt="Autonomous Hydroponics" /></a>
 
 ### 📚 Currently
 
@@ -27,5 +24,7 @@ Right now I'm especially into **AI tooling**, **full-stack development** and **s
 - 🧪 Exploring EMG-based gesture recognition
 
 ---
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdenBernhard/EdenBernhard/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdenBernhard/EdenBernhard/output/github-snake.svg" /><img alt="Contribution snake" src="https://raw.githubusercontent.com/EdenBernhard/EdenBernhard/output/github-snake.svg" /></picture>
 
 <sub>Open to collaborating on student projects — feel free to reach out via GitHub.</sub>
