@@ -21,6 +21,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Crop the SVGs to the contribution grid (removes outer margin and progress bar)
+      - name: Crop snake to grid
+        run: |
+          perl -pi -e 's/viewBox="-16 -32 (\d+) (\d+)" width="\d+" height="\d+"/sprintf(q{viewBox="0 0 %d %d" width="%d" height="%d"},$1-32,$2-80,$1-32,$2-80)/e' dist/*.svg
+          head -c 120 dist/github-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
