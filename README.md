@@ -9,7 +9,7 @@ Right now I'm especially into **AI tooling**, **full-stack development** and **s
 
 ### 🔧 Tech I work with
 
-<img src="https://skillicons.dev/icons?i=ts,python,cpp,react,nextjs,tailwind,fastapi,supabase,sqlite,docker,git,raspberrypi,arduino&perline=13" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,fastapi,supabase,sqlite,docker,git,raspberrypi,arduino&perline=13" alt="Tech stack" />
 
 ### 🚀 Selected projects
 
