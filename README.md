@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eden 🐼</h1>
 
-<a href="https://github.com/EdenBernhard"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4493F8&vCenter=true&width=480&lines=Computer+Science+%40+DHBW+Karlsruhe;Dual+student+at+Siemens+AG;Full-stack+%C2%B7+Signal+processing+%C2%B7+AI+tooling" alt="Typing intro" /></a>
+<a href="https://github.com/EdenBernhard"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4493F8&vCenter=true&width=480&lines=Computer+Science+%40+DHBW+Karlsruhe;Dual+student+%40+Siemens+AG;Full-stack+%C2%B7+Signal+processing+%C2%B7+AI+tooling" alt="Typing intro" /></a>
 
 I like building things end to end — from sensors and microcontrollers to web apps and the data in between.
 
